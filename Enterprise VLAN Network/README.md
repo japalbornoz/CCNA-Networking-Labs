@@ -1,13 +1,12 @@
-Project 1: Small-to-Medium Business (SMB) Office Network Objective: Showcase foundational routing, switching, and IP management.
-
-Description: design, build, and troubleshoot VLANs using a router-on-a-stick and a multilayer switch, and demonstrate the use case of DTP and VTP.
+Project 1: Small-to-Medium Business (SMB) Office Network 
+Objective: Showcase foundational routing, switching, and IP management by designing, building, and troubleshooting VLANs using a router-on-a-stick and a multilayer switch, and demonstrate the use case of DTP and VTP.
 
 
 Design: Use a 3-tier hierarchical model (Core, Distribution, Access). 
 Key Features: VLAN Segmentation: Separate VLANs for Data, Voice, Management, and Guests. 
 Inter-VLAN Routing: Use a "Router-on-a-Stick" or a Layer 3 Switch. 
 DHCP Server: Configure a Cisco router as a DHCP server for all VLANs. 
-Subnetting: Document VLSM plan to conserve IP addresses. 
+Subnetting: Document the VLSM plan to conserve IP addresses. 
 
 
 Build:
